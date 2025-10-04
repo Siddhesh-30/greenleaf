@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/greenleaf/static/css/main.e6c13ad2.css",
-    "main.js": "/greenleaf/static/js/main.9005a609.js",
+    "main.js": "/greenleaf/static/js/main.f8110cad.js",
+    "static/media/wallhaven-jx8p1y.png": "/greenleaf/static/media/wallhaven-jx8p1y.288f559345175730c369.png",
     "static/media/2.webp": "/greenleaf/static/media/2.896a8449b69021c43a99.webp",
     "static/media/4.webp": "/greenleaf/static/media/4.fe3ae538bbc1efe40f44.webp",
     "static/media/5.webp": "/greenleaf/static/media/5.776495f3e9e56920ce58.webp",
@@ -10,10 +11,10 @@
     "static/media/1.webp": "/greenleaf/static/media/1.6af32614a35969a737e3.webp",
     "index.html": "/greenleaf/index.html",
     "main.e6c13ad2.css.map": "/greenleaf/static/css/main.e6c13ad2.css.map",
-    "main.9005a609.js.map": "/greenleaf/static/js/main.9005a609.js.map"
+    "main.f8110cad.js.map": "/greenleaf/static/js/main.f8110cad.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.9005a609.js"
+    "static/js/main.f8110cad.js"
   ]
 }
